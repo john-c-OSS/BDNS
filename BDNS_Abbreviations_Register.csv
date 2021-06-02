@@ -252,6 +252,8 @@ sensor - lighting motion sensor,LMS,IfcSensor,MOVEMENTSENSOR
 sensor - lighting photocell sensor,LPS,IfcSensor,LIGHTSENSOR
 sensor - motion sensor,MOS,IfcSensor,MOVEMENTSENSOR
 sensor - multi sensor,MTS,IfcSensor,NOT DEFINED
+sensor - multi desk sensor,DESK,IfcSensor,NOTDEFINED
+sensor - multi room sensor,ROOM,IfcSensor,NOTDEFINED
 sensor - people counting sensor,PCS,IfcSensor ,NOTDEFINED
 sensor - pressure sensor,PS,IfcSensor,PRESSURESENSOR
 sensor - smoke detector,SD,IfcSensor,SMOKESENSOR
@@ -259,6 +261,7 @@ sensor - static pressure sensor,SPS,IfcSensor,PRESSURESENSOR
 sensor - temperature sensor,TPS,IfcSensor,TEMPERATURESENSOR
 sensor - thermostat,TSTAT,IfcUnitaryControlElement,THERMOSTAT
 sewage ejector,SE,IfcPump,
+switch - multi use keypad switch,KP,IfcSwitchingDevice,NOTDEFINED
 tank - break tank and booster set,BTBS,IfcTank,BREAKPRESSURE
 tank - condensate receiver tank,CNR,ifcTank,STORAGE
 tank - deareator tank,DEA,IfcTank,NOTDEFINED
